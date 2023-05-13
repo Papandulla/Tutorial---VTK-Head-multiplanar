@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Year 3 SEM 2\SECV3233 - 01 DATA VISUALIZATION\VTK\VTK-proj\MedicalDemo3\build\CMakeFiles\747f791788cf645f29ec2dfd8df37041\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EBDE9FED-9491-3942-B411-E639DF3E825E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
